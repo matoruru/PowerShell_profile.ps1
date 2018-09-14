@@ -1,0 +1,3 @@
+function prompt {
+   "$pwd`n$ "
+}
