@@ -1,5 +1,5 @@
 # PowerShell_profile.ps1
-A file like .bashrc
+A file like .bashrc for Windows
 
 ## Location of this file
 C:\Users\USERNAME\Documents\WindowsPowerShell\
